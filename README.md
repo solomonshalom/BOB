@@ -18,4 +18,4 @@ than you can push the code inside the editor without a terminal. If you want to 
 
 # Hosting
 
-To host the website, make a repository and name it in this format - ```username.github.io```. Once your done, push the code into the repository and the website should be online, the main page of the website should be labeled as ```index.html``` in order for github to make it as the main page.  If you want to register a domain, use the frame clocking technique to connect to the domain.
+To host the website, make a repository and name it in this format - ```username.github.io```. Once your done, push the code into the repository and the website should be online, the main page of the website should be labeled as ```index.html``` in order for github to make it as the main page. You can also host the repo through [vercel](vercel.com) or [netify](netify.com).
